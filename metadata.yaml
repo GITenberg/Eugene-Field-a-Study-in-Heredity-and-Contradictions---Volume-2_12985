@@ -1,0 +1,27 @@
+_repo: Eugene-Field-a-Study-in-Heredity-and-Contradictions---Volume-2_12985
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thompson, Slason
+    birthdate: 1849
+    deathdate: 1935
+    gutenberg_agent_id: '4762'
+    url: http://www.gutenberg.org/2009/agents/4762
+description: ''
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '2004-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12985'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Field, Eugene, 1850-1895'
+- !lcsh 'Journalists -- United States -- Biography'
+- !lcc 'PS'
+- !lcsh 'Poets, American -- 19th century -- Biography'
+- GITenberg
+title: Eugene Field, a Study in Heredity and Contradictions — Volume 2
+url: http://www.gutenberg.org/ebooks/12985
